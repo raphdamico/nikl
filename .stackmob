@@ -1,0 +1,7 @@
+sm_app_name: nikl
+sm_client_name: raphdamico
+html5: true
+
+development:
+  key: a3e650f5-95a8-41e2-9230-f7a4f0b8d71f
+  secret: 24245dc5-f202-45a5-843e-3c5579abf16c
