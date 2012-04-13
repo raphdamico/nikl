@@ -1,0 +1,7 @@
+sm_app_name: nikl
+sm_client_name: raphdamico
+html5: true
+
+development:
+  key: fudgedforsupport
+  secret: fudgedforsupport
