@@ -1,0 +1,7 @@
+sm_app_name: intro-html5
+sm_client_name: kerplinqllc
+html5: true
+
+development:
+  key: ad7aeb62-8d19-46a5-b5d7-4f3ae40af8fc
+  secret: 5afd8bcf-1069-4272-a221-264f6e4bb620
